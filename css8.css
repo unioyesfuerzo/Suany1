@@ -1,0 +1,62 @@
+.main .articles article{
+    height:1450px;
+    width: 800px;
+    background: #008080;
+    text-align: justify;
+    font-family: consola, tahoma, helvetica;
+    text-transform: capitalize;
+    border: black 5px double;
+     margin:10px; 
+    padding: 20px;
+}
+body {
+background-color:#C0C0C0;
+background-attachment:fixed; 
+background-repeat: no-repeat; 
+background-size: 100% 100%;
+}
+.site-header {
+  background-color: #008080;
+}
+
+.top-header {
+  background-color: #C0C0C0;
+  color: #9e3f3f;
+}
+
+.footer-sidebar {
+  color: #;
+}
+
+.footer-inner {
+  color: #;
+}
+
+.container {
+  color: #000000;
+}
+
+p {
+  color: #black;
+}
+
+.section-description {
+  color: #120202;
+}
+
+.default-section .section-title {
+  color: #170000;
+}
+*{
+	margin:1px;
+	padding:1px;
+}
+.nav > li {
+}	
+.nav li a {
+background-color:#566573;
+color:black;
+text-decoration:none;
+padding:10px 12px;
+display:block;
+}
